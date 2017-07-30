@@ -1,2 +1,2 @@
 # FileScanner
-Simple tool to search files, useless, but I was learning WinAPI.
+Simple tool to search files. Useless, but I wanted to learn WinAPI with pure C.
